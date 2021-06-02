@@ -28,6 +28,6 @@ requests==2.23.0
 six==1.14.0
 tk==0.1.0
 twilio==6.35.5
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
 xlrd==1.2.0
